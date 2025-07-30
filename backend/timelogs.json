@@ -1,0 +1,34 @@
+[
+  {
+    "model": "tracking.timelog",
+    "fields": {
+      "website": "youtube.com",
+      "duration": 45,
+      "date": "2025-07-28"
+    }
+  },
+  {
+    "model": "tracking.timelog",
+    "fields": {
+      "website": "stackoverflow.com",
+      "duration": 25,
+      "date": "2025-07-28"
+    }
+  },
+  {
+    "model": "tracking.timelog",
+    "fields": {
+      "website": "facebook.com",
+      "duration": 60,
+      "date": "2025-07-27"
+    }
+  },
+  {
+    "model": "tracking.timelog",
+    "fields": {
+      "website": "github.com",
+      "duration": 90,
+      "date": "2025-07-27"
+    }
+  }
+]
